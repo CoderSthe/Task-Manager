@@ -1,0 +1,4 @@
+admin, adm1n
+sithembiso, passw0rd
+phila, phila123
+thom, radiohead002
